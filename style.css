@@ -137,10 +137,8 @@ ul, li {
     background-color: lightgray;
 }
 footer{
-    display: inline-block;
     background: #645e5e;
     color: white;
-    width: 100%;
     text-align: center;
     padding: 1.875rem;
 }
@@ -170,17 +168,6 @@ footer p {
     h2.sub{
         text-align: center;
     }
-    footer{
-        display: none;
-    }
-   
-    
-    
-  
-    
-    
-
-
-
+      
 }
 
