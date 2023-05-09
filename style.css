@@ -136,15 +136,7 @@ ul, li {
 .vant-item:nth-child(2n-1){
     background-color: lightgray;
 }
-footer{
-    background: #645e5e;
-    color: white;
-    text-align: center;
-    padding: 1.875rem;
-}
-footer p {
-    cursor: pointer;
-}
+
 @media (max-width:800px){
     .conteudo{
         grid-template-columns: 1fr;
@@ -167,6 +159,15 @@ footer p {
     }
     h2.sub{
         text-align: center;
+    }
+    footer{
+        background: #645e5e;
+        color: white;
+        text-align: center;
+        padding: 1.875rem;
+    }
+    footer p {
+        cursor: pointer;
     }
       
 }
