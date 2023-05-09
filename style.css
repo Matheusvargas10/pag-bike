@@ -161,6 +161,7 @@ ul, li {
         text-align: center;
     }
     footer{
+        display block
         background: #645e5e;
         color: white;
         text-align: center;
